@@ -19,6 +19,10 @@ NRC: 7318
 
 * Determinar matematicamente el voltaje a traves del analisis de la onda sinusoidal para comprender de donde proviene el voltaje que se mide con el multimetro.
 
+*Comprender el funcionamiento de un capacitor para aplicarlo en un circuito mas avanzado. 
+
+* Estudiar y describir la construccion y las caracteristicas basicas de un capacitor. 
+
 
 **2. Marco Teórico**
 
