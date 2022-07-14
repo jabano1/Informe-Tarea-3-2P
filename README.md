@@ -227,7 +227,17 @@ Solucion:
 
 **4. Video**
 
+https://youtu.be/i3u3pdEykko
+
 **5. Conclusiones**
+
+-La onda sinusoidal da a conocer de mejor manera lo que sucede con el voltaje y la corriente en un circuito de CA, y se puede medir exactamente los valores que se necesita reconocer.
+
+-Los capacitores son importantes en la electronica ya que al almacenar energia pueden operar varios aparatos con bastante facilidad asi como pueden durar muchos años cargados.
+
+-Los diferentes tipos de capacitores pueden ser aplicados a varios circuitos segun la necesidad, al existir de varios materiales dielectricos puede almacenar menos o mas energía segun corresponda.
+
+-Los analisis de circuitos de CA se pueden realizr de igual manaera que los de CD cambiando algunos parametros coo los capacitores en serie o en paralelo, asi mismo como su voltaje cuando dos fuentes de ca y cd se juntan respectivamente. 
 
 **6. Bibliografia**
 
