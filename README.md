@@ -302,6 +302,99 @@ Solucion
 
 ![image](https://user-images.githubusercontent.com/105677231/179117042-2dd131f3-dab5-4a41-b8ce-a1cf377bcd55.png)
 
+**30. Determine la constante de tiempo para cada una de las combinaciones en serie:
+
+**a. R = 100 Ω, C = 1 µF**
+
+ꚍ =RC = (100 Ω)(1*10^-6F)=0.0001 s
+
+**b. R = 10 MΩ, C = 47 pF**
+
+ꚍ =RC = (10*10^6Ω)(4.7*10^-11F)=0.0004 s
+
+**c. R = 4.7 kΩ, C = 0.0047 µF**
+
+ꚍ =RC = (4700 Ω)(4.7*10^-9F)=0.00002 s
+
+**d. R = 1.5 MΩ, C = 0.01 µF**
+
+ꚍ =RC = (1.5*10^6 Ω)(1*10^-8F)=0.015 s
+
+**32. En el circuito de la figura 12-74, inicialmente el capacitor está descargado. Determine el voltaje presente en el capacitor en los instantes posteriores al cierre del interruptor:**
+
+![image](https://user-images.githubusercontent.com/105677231/179117264-14bfb73b-1f18-4257-8f79-9791b3b6dd20.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/179117398-dd30eb85-e8b4-4b56-aa89-efbb0e47c979.png)
+
+**a.10µs** 
+
+RC=(10kΩ)(0.001 µF)=10 µs
+
+vc=(10V)e^-(10 µs /10 µs) =(10V)e^-1 =(10V)(0.367)=5.505 V
+
+**b.20µs** 
+
+RC=(10kΩ)(0.001 µF)=10 µs
+
+vc=(10V)e^-(20µs /10 µs) =(10V)e^-2 =(10V)(0.1353)=1.353 V
+
+**c.30µs** 
+
+RC=(10kΩ)(0.001 µF)=10 µs
+
+vc=(10V)e^-(30µs /10 µs) =(10V)e^-3 =(10V)(0.0497)=0.497 V
+
+**d.40µs** 
+
+RC=(10kΩ)(0.001 µF)=10 µs
+
+vc=(10V)e^-(40 µs /10 µs) =(10V)e^-4 =(10V)(0.0183)=0.183 V
+
+**e.50µs** 
+
+RC=(10kΩ)(0.001 µF)=10 µs
+
+vc=(10V)e^-(50 µs /10 µs) =(10V)e^-5 =(10V)(0.006)=0.06 V
+
+**34. Repita el problema 32 con los siguientes intervalos de tiempo:**
+
+**a.2µs** 
+
+RC=(10kΩ)(0.001 µF)=10 µs
+
+vc=(10V)e^-(2 µs /10 µs) =(10V)e^-(0.2) =(10V)(0.818)=8.18 V
+
+**b.5µs** 
+
+RC=(10kΩ)(0.001 µF)=10 µs
+
+vc=(10V)e^-(5µs /10 µs) =(10V)e^-(0.5) =(10V)(1.648)=16.48 V
+
+**c.15µs** 
+
+RC=(10kΩ)(0.001 µF)=10 µs
+
+vc=(10V)e^-(15µs /10 µs) =(10V)e^-(1.5) =(10V)(0.223)=2.23 V
+
+**36.Derive la fórmula para determinar el tiempo en cualquier punto de una curva de voltaje exponencial creciente. Use esta fórmula para calcular el tiempo en el cual el voltaje que aparece en la figura 12-76 llega a 6 V después de cerrar el interruptor.**
+
+![image](https://user-images.githubusercontent.com/105677231/179117596-5a908cea-13a7-4c64-8101-7a61f7bc2711.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/179117620-46dc42b6-3ac5-4fe7-b80f-aad9af447184.png)
+
+**Despejando la t de la ecuacion:**
+
+t=-(0.01µF)(2.2 kΩ) ln(6V/12V)
+
+t=-(22µs)(-0.69)
+
+t=15.18 µs
+
+**38. ¿Cuánto tiempo requiere el capacitor C para descargarse a 3 V en la figura 12-75?**
 
 
 
