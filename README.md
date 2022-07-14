@@ -281,7 +281,29 @@ Solucion:
 
 ![image](https://user-images.githubusercontent.com/105677231/179116683-6a126151-6bbb-460f-9506-125e8f08509a.png)
 
-**26. 
+**26. ¿Cuál es la carga en cada capacitor de la figura 12-71?**
+
+![image](https://user-images.githubusercontent.com/105677231/179116758-18a6b20f-07cf-4fd1-8f73-b3d56e059528.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/179116820-134eb220-a1e4-4d84-81ac-59785a9dec9a.png)
+
+**28.¿Cuál es el voltaje entre los nodos A y B en cada circuito de la figura 12-72?**
+
+![image](https://user-images.githubusercontent.com/105677231/179116872-5567d971-74e2-4ed2-b617-1769dba0ab99.png) ![image](https://user-images.githubusercontent.com/105677231/179116889-a8f968fa-ed6b-4db5-bd7e-5045ba81a68a.png)
+
+![image](https://user-images.githubusercontent.com/105677231/179116959-d403e8d3-1fe6-4f78-96a1-882f27adf18f.png)
+
+
+Solucion
+
+![image](https://user-images.githubusercontent.com/105677231/179116928-6669aac9-65e9-4b7f-9f88-d5668cbd5eca.png)  ![image](https://user-images.githubusercontent.com/105677231/179117011-14644927-8bc7-49b0-aeef-e897fd1ac79b.png)
+
+![image](https://user-images.githubusercontent.com/105677231/179117042-2dd131f3-dab5-4a41-b8ce-a1cf377bcd55.png)
+
+
+
 
 
 
