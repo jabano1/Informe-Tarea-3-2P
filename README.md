@@ -145,7 +145,61 @@ NRC: 7318
 
 ![image](https://user-images.githubusercontent.com/105677231/179022560-eb1bc19d-9c92-417a-a4aa-70a1fccd9a28.png)
 
+**26. Se aplica un voltaje sinusoidal al circuito resistivo de la figura 11-80. Determine los valores siguientes:**
 
+![image](https://user-images.githubusercontent.com/105677231/179023468-240d1ed4-9874-45fb-b584-713c025e2783.png)
+
+-Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/179023533-2a5c77d2-d141-40c4-a20b-2a834557ede9.png)
+
+**28. Determine el voltaje rms entre los extremos de R3 en la figura 11-82.**
+
+![image](https://user-images.githubusercontent.com/105677231/179023646-af1f1936-69c4-4450-a2f7-3f7ec453d4ae.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/179023708-9067d319-168b-4933-9416-efd2fac38642.png)
+
+**30. ¿Cuánto voltaje de cd se debe agregar a una onda seno de 3 V rms para hacer el voltaje resultante no alterno (valores negativos)?**
+
+![image](https://user-images.githubusercontent.com/105677231/179023788-21cf9aac-f439-4ac3-8527-06117272f840.png)
+
+**32. La figura 11-83 muestra una fuente de voltaje sinusoidal dispuesta en serie con una fuente de cd. Efectivamente, los dos voltajes están superpuestos. Determine la disipación de potencia en el resistor de carga.**
+
+![image](https://user-images.githubusercontent.com/105677231/179023844-e8b7b9a6-4831-4837-b134-956a1a2789cf.png)
+
+-Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/179023933-7b362d15-7795-44b5-bfb8-ba8a4f362a8b.png)
+
+**34. La frecuencia de repetición de una forma de onda pulsante es de 2 kHz, y el ancho de pulso es de 1 ms. ¿Cuál es el ciclo de trabajo en porcentaje?**
+
+![image](https://user-images.githubusercontent.com/105677231/179024016-39605019-af18-4196-9501-d71e27d5922a.png)
+
+**36. Determine el ciclo de trabajo de cada una de las formas de onda mostradas en la figura 11-86.**
+
+![image](https://user-images.githubusercontent.com/105677231/179024110-43736dc7-5822-45f1-9e47-8ca4305a7645.png)
+
+-Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/179024154-c2311fe7-add3-48df-8130-d2ed2c28a70c.png)
+
+**40. Una forma de onda no sinusoidal llamada escalonada se muestra en la figura 11-88. Determine su valor promedio.**
+
+![image](https://user-images.githubusercontent.com/105677231/179024274-1dd03b30-cc38-4fb7-90bd-ca514900c72a.png)
+
+**42. ¿Cuál es la frecuencia fundamental de la onda cuadrada mencionada en el problema 41?**
+
+![image](https://user-images.githubusercontent.com/105677231/179024366-a31d02d0-20ad-4c4a-8ca8-ece13253c056.png)
+
+**44.Con base en los ajustes del instrumento y en un examen de la pantalla del osciloscopio y de la tarjeta prototipo mostrados en la figura 11-90, determine la frecuencia y el valor pico de las señales de entrada y salida. La forma de onda mostrada es el canal 1. Trace la forma de onda del canal 2 como aparecería en el osciloscopio con los ajustes indicados.**
+
+![image](https://user-images.githubusercontent.com/105677231/179024446-82161df1-a497-4635-b5ee-072976318f1a.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/179024509-6a50a917-0a84-4a94-8f47-e806323a3d79.png)
 
 
 
