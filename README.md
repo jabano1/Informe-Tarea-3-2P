@@ -201,6 +201,25 @@ Solucion:
 
 ![image](https://user-images.githubusercontent.com/105677231/179024509-6a50a917-0a84-4a94-8f47-e806323a3d79.png)
 
+***
+
+**Capitulo 12**
+
+**2. Transforme los siguientes valores de microfarads a picofarads:**
+
+**a)** 0.1 µF×〖10〗^6=100000pF
+
+**b)** 0.0025 µF×〖10〗^6=2500pF
+
+**c)** 4.7 µF×〖10〗^6=4700000pF
+
+**4. Transforme los siguientes valores de farads a microfarads**
+
+**a)** 0.0000001 F×〖10〗^6=0.1µF
+
+**b)** 0.0022 F×〖10〗^6=2200µF
+
+**c)** 0.0000000015 F×〖10〗^6=0.0015µF
 
 
 
