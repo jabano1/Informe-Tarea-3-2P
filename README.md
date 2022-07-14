@@ -396,9 +396,107 @@ t=15.18 µs
 
 **38. ¿Cuánto tiempo requiere el capacitor C para descargarse a 3 V en la figura 12-75?**
 
+![image](https://user-images.githubusercontent.com/105677231/179117738-2a43fde2-c842-494b-8e53-31cd1c2ef72d.png)
 
+Solucion:
 
+![image](https://user-images.githubusercontent.com/105677231/179117757-93b96e8b-409c-48ec-b6da-f39292a44fc8.png)
 
+**Despejando la t de la ecuacion:**
+
+t=-(1.5µF)(1.0kΩ) ln(3V/25V)
+
+t=-(1500µs)(-2.12)
+
+t=3180 µs
+
+**40. En la figura 12-78, inicialmente el capacitor está descargado. En el instante t  10 ms después de que se cierra el interruptor, el voltaje instantáneo en el capacitor es de 7.2 V. Determine el valor de R**
+
+![image](https://user-images.githubusercontent.com/105677231/179117837-34ccfe67-2b3a-484f-bc39-1a5346d7d928.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/179117849-1fedec67-1ef7-44d6-9d82-d9561eef19d0.png)
+
+**Despejando la R de la ecuacion:**
+
+R=-t/Cln(v/Vi)
+
+R=-(0.01s)/(1*10-9F)ln(7.2/10)
+
+R=30441.02 kΩ
+
+**42. ¿Cuál es el valor de la reactancia capacitiva total en cada circuito de la figura 12-80?**
+
+![image](https://user-images.githubusercontent.com/105677231/179117900-4c96ba42-ee79-4f57-b611-6c7441362d8a.png)
+
+Solucion:
+
+Xc=1/2πfC
+
+Xc= 1/2π(1000)(4.7*10^-11)
+
+Xc=3389.83 kΩ
+
+![image](https://user-images.githubusercontent.com/105677231/179117941-5f9ffb02-cf60-4f37-a393-24b17eb98738.png)
+
+Solucion:
+
+CT=10µF+15µF
+
+CT=25µ F
+
+Xc= 1/2π(1)(2.5*10-5F)
+
+Xc=6.36 kΩ
+
+![image](https://user-images.githubusercontent.com/105677231/179117962-f5670149-fab1-4435-80a2-75892cf6d20e.png)
+
+Soluciom:
+
+CT=1/2 µF
+
+Xc= 1/2π(60)(5*10^-7F)
+
+Xc=5.31 kΩ
+
+**44.En cada circuito de la figura 12-80, ¿qué frecuencia se requiere para producir una XC de 100 Ω? **
+
+**a.**
+
+f=1/2πCXc
+
+f= 1/2π(100)(4.7*10^-11)
+
+f= 4.7*10^-9 Hz
+
+**b.**
+
+f=1/2πCXc
+
+f= 1/2π(100)(2.5*10-5)
+
+f= 63.66 Hz
+
+**c.**
+
+f=1/2πCXc
+
+f= 1/2π(100)( 5*10^-7F)
+
+f= 3120.68 Hz
+
+**46. Se aplica un voltaje de 10 kHz a un capacitor de 0.0047 mF, y se mide una corriente rms de 1 mA. ¿Cuál es el valor del voltaje?**
+
+I= V/Xc
+
+V=I/Xc
+
+V=(1mA)/2 π (10000)(4.7*10-9)
+
+V=3386275.39 V
+
+**48. 
 
 
 
