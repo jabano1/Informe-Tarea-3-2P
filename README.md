@@ -221,6 +221,68 @@ Solucion:
 
 **c)** 0.0000000015 F×〖10〗^6=0.0015µF
 
+**6. ¿Qué tamaño de capacitor es capaz de guardar 10 mJ de energía con 100 V entre sus placas?**
+
+![image](https://user-images.githubusercontent.com/105677231/179115870-3b17185d-ff6c-4b46-8e5c-6a20d4d3f51f.png)
+
+**8. Un capacitor de mica tiene placas cuadradas de 3.8 cm por lado con una separación entre ellas de 2.5 mils. ¿Cuál es la capacitancia?**
+
+![image](https://user-images.githubusercontent.com/105677231/179115913-cf1b99ba-1473-479c-afdb-856f70703cce.png)
+
+**10. Un estudiante desea construir un capacitor de 1 F con dos placas cuadradas para un proyecto de feria de las ciencias. Planea utilizar un dieléctrico de papel (ε_r=2.5) de 8 *10^5 m de espesor. La feria de las ciencias se va a llevar a cabo en el “Astrodomo”. ¿Cabrá su capacitor en el “Astrodomo”? ¿De qué tamaño serían las placas si pudieran ser construidas?**
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/179115939-e68c19f7-f8e7-476b-8153-6349eb3ba9f0.png)
+
+**12. A temperatura ambiente (25°C), se especifica que cierto capacitor sea de 1000 pF. El capacitor tiene coeficiente de temperatura negativo de 200 ppm/°C. ¿Cuál es su capacitancia a 75°C?**
+
+![image](https://user-images.githubusercontent.com/105677231/179115994-aedb2f39-33bf-46d0-9d64-7c2e8e5c52f5.png)
+
+**14. En la construcción de un capacitor de hojas de mica y laminillas apiladas, ¿cómo se incrementa el área de placas?**
+
+Las laminillas metálicas forman la placa, con las laminillas alternas conectadas entre sí, para incrementar el área de placas y se utilizan mas capas para incrementar el área de placas, por lo cual se incrementa la capacitancia.
+
+**16. Muestre cómo conectar un capacitor electrolítico de un lado a otro de R2 entre los puntos A y B en la figura 12-66.**
+
+![image](https://user-images.githubusercontent.com/105677231/179116098-1f6d908a-9fcc-496b-9b98-4ee42808584c.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/179116163-d4a1783d-28a9-4f53-8474-df65f911b39a.png)
+
+**18. Identifique las partes del capacitor de disco de cerámica mostrado en la vista de corte de la figura 12-67.**
+
+![image](https://user-images.githubusercontent.com/105677231/179116212-295b4bff-c3a7-4bd5-b9f4-de632a0462a2.png)
+
+**20. Cinco capacitores de 1000 pF están en serie. ¿Cuál es la capacitancia total?**
+
+![image](https://user-images.githubusercontent.com/105677231/179116294-1898db1b-b050-41ea-a44a-0c8d86617125.png)
+
+**22. Para cada circuito de la figura 12-69, determine el voltaje entre las terminales de cada capacitor.**
+
+![image](https://user-images.githubusercontent.com/105677231/179116325-f6b4f9bb-1952-442b-a909-ebb9e256ad79.png) ![image](https://user-images.githubusercontent.com/105677231/179116372-5d874516-798d-4d70-bfbb-ed6746e9cd2e.png)
+
+![image](https://user-images.githubusercontent.com/105677231/179116473-b1a1719c-454a-49bb-a478-fffb47d750e1.png)
+
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/179116437-17c2b61f-22f5-4f94-8178-3f29940caf21.png)  ![image](https://user-images.githubusercontent.com/105677231/179116522-867ee694-0ee4-46df-8432-4579601ea920.png)
+
+![image](https://user-images.githubusercontent.com/105677231/179116602-f84c7263-848d-4d22-b936-c2e69b6cd3ac.png)
+
+
+**24. . La carga total guardada por los capacitores en serie de la figura 12-70 es de 10 µC. Determine el voltaje entre las terminales de cada capacitor.**
+
+![image](https://user-images.githubusercontent.com/105677231/179116639-9da0716b-f3b1-4faf-b0ea-3731b87a2810.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/179116683-6a126151-6bbb-460f-9506-125e8f08509a.png)
+
+**26. 
+
 
 
 
