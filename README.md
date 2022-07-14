@@ -131,6 +131,22 @@ NRC: 7318
 
 ![image](https://user-images.githubusercontent.com/105677231/179021881-c5c4a83e-399a-46ce-93f1-744690eb0ced.png) ![image](https://user-images.githubusercontent.com/105677231/179021957-622aa2b1-8bfc-446b-b681-8fb9e2a1637f.png)
 
+**20. Repita el problema 19 para el caso en que la onda seno A va 30° delante de la onda seno B.**
+
+-Problema 9: La onda seno A tiene 30° de retraso con respecto a la onda seno B. Ambas tienen valores pico de 15 V. La onda seno A es la referencia con un cruce por cero hacia positivo en 0°. Determine el valor instantáneo de la onda seno B en 30°, 45°, 90°, 180°, 200°, y 300°.
+
+![image](https://user-images.githubusercontent.com/105677231/179022332-daa3c8e1-7d09-4c8a-a0a7-4c46f55a73af.png) ![image](https://user-images.githubusercontent.com/105677231/179022380-36848a0e-9b81-4311-8f28-62db90b0b16c.png)
+
+**22. Trace un diagrama fasorial para representar las ondas seno de la figura 11-78 con respecto a la referencia de 0°.**
+
+![image](https://user-images.githubusercontent.com/105677231/179022491-2a6915c6-d059-4267-a070-a8f7dcfef6ec.png)
+
+**24. Determine la frecuencia para cada velocidad angular:**
+
+![image](https://user-images.githubusercontent.com/105677231/179022560-eb1bc19d-9c92-417a-a4aa-70a1fccd9a28.png)
+
+
+
 
 
 
