@@ -460,7 +460,7 @@ Xc= 1/2π(60)(5*10^-7F)
 
 Xc=5.31 kΩ
 
-**44.En cada circuito de la figura 12-80, ¿qué frecuencia se requiere para producir una XC de 100 Ω? **
+**44. En cada circuito de la figura 12-80, ¿qué frecuencia se requiere para producir una XC de 100 Ω?**
 
 **a.**
 
