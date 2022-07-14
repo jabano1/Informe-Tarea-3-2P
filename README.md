@@ -496,8 +496,57 @@ V=(1mA)/2 π (10000)(4.7*10-9)
 
 V=3386275.39 V
 
-**48. 
+**48. Determine el voltaje de ca entre las terminales de cada capacitor y la corriente en cada rama del circuito de la figura 12-81.**
 
+![image](https://user-images.githubusercontent.com/105677231/179118157-c7bcc010-cbcc-4e5e-91f0-fa81e4f1f0be.png)
+
+Solucion:
+
+CT=0.007 µF
+
+IT=758 *10^6 A
+
+V1=(0.007 µF)(10v)/(0.01 µF)
+
+V1=7 V
+
+V2=(0.007 µF)(10V)/(0.022 µF)
+
+V2=3.18 V
+
+V3=(0.007 µF)(10V)/(0.015 µF)
+
+V3=4.66 V
+
+V4=(0.007 µF)(10V)/(0.047 µF)
+
+V4=1.49 V
+
+V5eq=(0.007 µF)(10V)/(0.006 µF)
+
+V5eq=11.67 V
+
+**50. Si en la figura 12-81 C4 se abriera, determine los voltajes que se medirían entre las terminales de los otros capacitores**
+
+![image](https://user-images.githubusercontent.com/105677231/179118243-d57a844c-7cb6-4ef4-80c7-593e0d213c74.png)
+
+Solucion:
+
+V1=(0.007 µF)(10v)/(0.01 µF)
+
+V1=7 V
+
+V2=(0.007 µF)(10V)/(0.022 µF)
+
+V2=3.18 V
+
+V3eq=(0.007 µF)(10V)/(0.026 µF)
+
+V3eq=2.69 V
+
+**52.Idealmente, ¿cuál deberá ser la reactancia de un capacitor de desvío para eliminar un voltaje de ca de 10 kHz en un punto dado en un circuito amplificador?**
+
+-Cuando un capacitor grande es conectado desde un punto de polarizacion hacia tierra es cuando se produce una trayectoria de baja rectancia de voltaje en ca y deja el voltaje cd constante en algun punto dado.Entonces la frecuencia como es baja el capacitor de desvió pierde eficiencia debido a que la reactancia incrementa.
 
 
 **4. Video**
